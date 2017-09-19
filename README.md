@@ -1,2 +1,2 @@
 # daily-learning-journals
-A Rechere du Temps Perdu - 201
+A la Rechere du Temps Perdu - 201
