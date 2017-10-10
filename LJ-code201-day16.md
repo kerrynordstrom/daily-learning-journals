@@ -1,0 +1,3 @@
+Today I learned that there is always a freely available online tool to translate information from one format to another.  The key to finding this tool, as Sam showed us, is to think about what is happening to manipulate the data and search for key words that point you towards this direction.  In this example, we needed parsed data to either an array or object format.  Well, a simple Google search (thanks Google) of 'parse csv' shows a perfect tool as its first result.  Amazing.  This likely saves us lots of head scratching and confusion.  
+
+tl;dr: Think of the problem you want to solve, break it into key words, then search.
